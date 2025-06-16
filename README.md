@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+- 👯 I’m looking to collaborate on LLM-based projects
+- 💬 I have strong fundamentals in Machine Learning
+- 📫 How to reach me:
+  - My email: akshaysyal19@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/akshay-syal/
+- 😄 Pronouns: He/Him/His
+
+I am a recent graduate with a Master’s in Data Science from Northeastern University, equipped with a robust foundation in machine learning modeling and data analysis. My coursework and industry experience have allowed me to develop specialized expertise in Large Language Models (LLMs), positioning me effectively at the intersection of data science and generative AI.
+
+# Languages and Tools:
+Languages
+
