@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 I am a recent graduate with a Master’s in Data Science from Northeastern University, equipped with a robust foundation in machine learning modeling and data analysis. My coursework and industry experience have allowed me to develop specialized expertise in Large Language Models (LLMs), positioning me effectively at the intersection of data science and generative AI.
 
-# Languages and Tools:
-Languages
+# Skills:
+Languages: Python, SQL, Javascript
+Libraries & Frameworks: Pandas, Numpy, Tensorflow, PyTorch, Flask, Express, HuggingFace, LangChain, Matplotlib, Scikit-learn
+Tools: VS Code, AWS, Docker, Github, Postman, Ollama, ngrok, regex
 
